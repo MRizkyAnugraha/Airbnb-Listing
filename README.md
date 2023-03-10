@@ -1,3 +1,3 @@
 # Airbnb-Listing
 
-This dashboard aims to analyze Airbnb listing in 5 neighborhoods group (consisting of Manhattan, Brooklyn, Queens, Bronx, and Staten Island). The information includes a listing and insight consisting of 2 charts. By examining this data, it is intended to obtain insight into the quantity of listing in each neighborhood group, and the correlation between price and number of reviews.
+Explore the world of Airbnb in New York City with this dashboard, which analyzes the listings of 5 neighborhood groups: Manhattan, Brooklyn, Queens, Bronx, and Staten Island. The dashboard provides an overview of the listings, including the quantity and pricing details, as well as insights through 2 charts that showcase the correlation between price and the number of reviews. This dashboard is designed to help you gain a deeper understanding of the Airbnb market in New York City and identify trends across different neighborhoods.
